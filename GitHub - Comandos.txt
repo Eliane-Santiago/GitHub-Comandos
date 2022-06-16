@@ -1,0 +1,16 @@
+
+>>> Caminho para subir arquivos para o git via Git Bash
+
+git init
+
+git status
+
+git add .
+
+git commit -m "Nome que deseja colocar"
+
+git remote add origin git@github.com:Eliane-Santiago/Adianti.git
+
+git push -u origin main
+
+git push
